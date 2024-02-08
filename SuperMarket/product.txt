@@ -1,0 +1,13 @@
+Milk|1|13
+Cheese|2|20.8
+Water|3|30.6
+Chips|4|5.5
+Pepsi|5|8
+kareem|6|14
+kimo|6|125
+moahmmed|6|25
+anything|88|2000
+anything2|65|3.6
+anything3|633|20.2
+limon|9|50
+kk|60|453
